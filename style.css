@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem;
+  /* background-color: rgb(255, 165, 165); */
+  background-color: hsl(61, 100%, 80%);
+  font-family: 'Raleway', sans-serif;
+}
+
+.navbar-brand {
+  font-family: 'Chakra Petch', sans-serif;
+  letter-spacing: 1.5px;
+}
+
+#navbarNav {
+  font-family: 'Josefin Sans', sans-serif;
+  letter-spacing: 2px;
+}
